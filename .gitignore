@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# dataset files
+/dataset/spots_10_loader.py
+/dataset/*.gz
