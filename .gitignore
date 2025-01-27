@@ -6,3 +6,6 @@ __pycache__/
 # dataset files
 /dataset/spots_10_loader.py
 /dataset/*.gz
+
+# KerasTuner
+/bayesian_opt/
