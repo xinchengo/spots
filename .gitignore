@@ -9,3 +9,4 @@ __pycache__/
 
 # KerasTuner
 /bayesian_opt/
+/models/
