@@ -10,3 +10,7 @@ __pycache__/
 # KerasTuner
 /bayesian_opt/
 /models/
+
+# Generated files
+/generated/
+/generated_spots10/
