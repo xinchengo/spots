@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Token utilities
+/preset.py
+
 # dataset files
 /dataset/spots_10_loader.py
 /dataset/*.gz
