@@ -17,3 +17,4 @@ preset.py
 # Generated files
 /generated/
 /generated_spots10/
+/ddpm-butterflies*/
