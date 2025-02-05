@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Token utilities
-/preset.py
+preset.py
 
 # dataset files
 /dataset/spots_10_loader.py
